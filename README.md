@@ -1,21 +1,17 @@
-Here is a complete, professional `README.md` file tailored exactly to the project we built. You can copy this entire block and paste it directly into your GitHub repository!
 
----
-
-```md
 # 📈 ShopEZ Trading Platform
 
 A real-time, risk-free virtual stock trading simulator built with the MERN stack. ShopEZ is designed to help novice investors practice trading mechanics, visualize asset allocation, and experience live market dynamics without the fear of financial loss.
 
 ## ✨ Features
 
-* **Virtual Sandbox:** Every new user is instantly initialized with a $100,000 USD virtual starting balance.
-* **Live Market Explorer:** Search for real-time stock symbols (e.g., AAPL, TSLA), view live open/high/low pricing, and instantly execute virtual "Buy" and "Sell" orders.
-* **Dynamic Portfolio Dashboard:** A responsive user dashboard featuring an interactive pie chart (powered by Recharts) that maps exact asset allocation alongside a detailed holdings table.
-* **Secure Authentication:** Complete Login and Registration flows protected by encrypted passwords and JSON Web Tokens (JWT).
-* **Admin Control Room:** A role-based, restricted VIP route that allows administrators to monitor a comprehensive log of all trades executed across the platform.
+ **Virtual Sandbox:** Every new user is instantly initialized with a $100,000 USD virtual starting balance.
+ **Live Market Explorer:** Search for real-time stock symbols (e.g., AAPL, TSLA), view live open/high/low pricing, and instantly execute virtual "Buy" and "Sell" orders.
+ **Dynamic Portfolio Dashboard:** A responsive user dashboard featuring an interactive pie chart (powered by Recharts) that maps exact asset allocation alongside a detailed holdings table.
+ **Secure Authentication:** Complete Login and Registration flows protected by encrypted passwords and JSON Web Tokens (JWT).
+ **Admin Control Room:** A role-based, restricted VIP route that allows administrators to monitor a comprehensive log of all trades executed across the platform.
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 **Frontend:**
 * React (via Vite)
